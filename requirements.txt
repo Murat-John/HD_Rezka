@@ -1,0 +1,13 @@
+Django==3.1
+psycopg2-binary==2.8.6
+Pillow==7.1
+djangorestframework==3.11
+drf-yasg
+python-decouple
+pytils
+drf-action-serializer
+celery
+redis
+beautifulsoup4==4.9.3
+lxml==4.6.2
+requests==2.25.1
